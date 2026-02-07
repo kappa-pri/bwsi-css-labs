@@ -12,5 +12,7 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
 
+    print(f"Hi, my name is {name}, and I am excited to learn about cybersecurity!")
+
 if __name__ == "__main__":
     main()
